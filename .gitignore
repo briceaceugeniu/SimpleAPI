@@ -11,4 +11,6 @@
 .vs
 .vscode
 
-*.Dubug/*
+bin
+obj
+config
