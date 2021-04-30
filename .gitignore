@@ -11,4 +11,4 @@
 .vs
 .vscode
 
-src/SimpleAPI/bin/*
+.src/SimpleAPI/bin/*
