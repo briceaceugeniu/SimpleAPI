@@ -11,6 +11,4 @@
 .vs
 .vscode
 
-bin
-obj
-config
+src/SimpleAPI/bin/*
